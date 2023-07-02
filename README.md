@@ -34,13 +34,11 @@ If you have any concerns about the data collection or would like more informatio
 
 ## Disclaimer: Data Law Compliance
 
-While the TesterGPT is designed to comply with data protection laws in the United States, it is important to note that I assume no liability for the use of this application in jurisdictions outside the United States, such as the European Union (EU) or California, where specific data protection laws and requirements may apply.
+While the TesterGPT is designed to comply with data protection laws in the United States, it is important to note that I assume no liability for the use of this application in jurisdictions outside the United States, such as the European Union (EU), or in states like California where specific data protection laws and requirements may apply.
 
-If you choose to use the TesterGPT in regions governed by data protection laws different from those in the United States, it is your responsibility to ensure compliance with the applicable regulations. I strongly advise reviewing and understanding the local data privacy laws before using the application.
+If you choose to use the TesterGPT in regions governed by data protection laws, it is your responsibility to ensure compliance with the applicable regulations. I strongly advise reviewing and understanding the local data privacy laws before using the application.
 
 By using the TesterGPT, you acknowledge that you have been informed about the limitations regarding data protection regulations in specific jurisdictions and that you assume full responsibility for any legal consequences resulting from the use of the application in non-compliant areas.
-
-Please consult legal professionals and adhere to the data protection laws of your respective jurisdiction to ensure compliance and mitigate any potential legal risks.
 
 
 ## Installation
@@ -75,7 +73,7 @@ To run this application, you need to set up your OpenAI API key in the environme
 
 Please note that using the GPT-3 language model for generating test cases incurs costs. The specific cost depends on factors such as the number of tokens processed by the model.
 
-As of my last knowledge update in September 2021, the cost per token for the chosen GPT-3 model was $0.000016 / token. Please refer to the official OpenAI documentation or your OpenAI account dashboard for the most up-to-date pricing information.
+As of my last knowledge update in September 2021, the cost per token for the chosen GPT-3 model was $0.0020 / token. Please refer to the official OpenAI documentation or your OpenAI account dashboard for the most up-to-date pricing information.
 
 As an example, I gave a 12MB PDF file as input to this tool and OpenAI charged me $0.03 to generate the test cases using this application. I don't collect this fee as it goes directly to OpenAI and is the cost for using their service.
 
