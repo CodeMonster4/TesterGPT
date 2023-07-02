@@ -1,0 +1,272 @@
+3.2 Interfaces
+Infrared interface
+Measurement data can be sent to a Testo printer via the infrared interface on
+the head of the instrument.
+USB interface
+The mains unit (accessory part) can be connected to the head of the
+instrument via the USB interface to power the instrument.
+Instruments with a memory: Measurement/instrument data can be exchanged
+with a PC via the USB interface.
+Probe socket(s)
+Plug-in measuring probes can be connected via the probe socket(s) on the
+base of the instrument. The instrument is a HighPower device, possibly an
+additional USB-Hub is required!
+Radio module (accessory part)
+Radio probes may only be used in countries in which they have been Type
+Approved (see application infor mation of the radio probe).
+Up to three radio probes can be connected via the radio module.
+3.3 Voltage supply
+Voltage is supplied via three mignon batteries (included in delivery) or
+rechargeable batteries or through a mains unit (accessory part). It is not
+possible to charge rechargeable batteries in the instrument.
+When operating the instrument with the mains unit, insert batteries in order
+to avoid switching off the instrument in case of a power interruption.
+3. Product description
+9 de fr es it pt sv nl ?? ??
+4. Commissioning
+This chapter describes the steps required to commission the product.
+➣ Inserting batteries/rechargeable batteries and a radio module (accessory
+part):
+1 Undo the two screws on the rear of the instrument and lift off the battery
+compartment cover.
+2 Insert batteries/rechargeable batteries (3x mignon) into the battery
+compartment. Observe the polarity!
+3 Push the radio module (accessory part) into the radio module
+compartment until it engages in place. Note the guide groove.
+4 Replace the battery compartment cover, press down and secure by
+tightening the two screws.
+4. Commissioning
+10
+5. Operation
+This chapter describes the steps that are executed frequently when using the
+product.
+5.1 Connecting a probe
+Plug-in probes
+Plug-in probes must be connected before the measuring instrument is
+switched on so that they are recognised by the instrument.
+Insert the connector of the probe into the probe socket of the measuring
+instrument.
+Radio probes
+Radio probes may only be used in countries in which they have been Type
+Approved (see application infor mation of the radio probe).
+A radio module (accessory part) is required for the use of radio probes. The
+radio module must be connected before the measuring instrument is switched
+on so that it is recognised by the measuring instrument.
+Each radio probe has a probe ID (identification number) which must be set in
+configuration mode.
+➫ See chapter PROBE, p. 15.
+5.2 Switching on/off
+➣ Switching the instrument on:
+Press .
+- Only 735-2: If probe adjustment data are stored in the instrument and
+activated, Adjustm. active appears in the display (duration: 2s).
+➫ See chapter PROBE, p. 15.
+- Measurement view is opened: The current reading is displayed, or
+---- lights up if no reading is available.
+Instruments with a memory: The activated location is displayed
+(topmost line).
+-or5. Operation
+11de fr es it pt sv nl ?? ??
+The instrument is switched on for the first time, a reset was carried out or
+the power supply was interrupted for a lengthy period of time:
+- The Language function is opened.
+➫ See the chapter LANGUAGE, p. 16.
+➣ Switching the instrument off:
+Press and hold (for approx. 2s) until the display goes out.
+5.3 Display light
+➣ Switching the display light on/off:
+✓ The instrument is switched on.
+Press .
+5. Operation
+12
+6. Setting the instrument
+This chapter describes the steps that are required in order to adapt the
+measuring instrument for specific measuring tasks.
+6.1 Configuration menu
+The basic settings for the measuring instrument are performed in the
+configuration menu.
+➣ Opening the configuration menu:
+✓ The instrument is in measurement view.
+Press and hold (approx. 2s) until config. is displayed.
+Press to go one menu level back. To leave the configuration menu,
+press several times until the instrument changes to measurement view.
+6.1.1 Profile
+The instrument has predefined measurement profiles that are tailored to
+specific areas of application.
+The profile setting influences the following points in measurement mode:
+· Assignment of the function buttons
+· Number of predefined functions
+· Structure of the main menu
+All functions are available in the standard profile. In the application-specific
+measurement profiles, the available functions are reduced to only those that are
+needed to ensure speedier access.
+➣ Setting a profile:
+✓ The configuration menu is open, config. is displayed.
+1 Profile ➝ .
+2 Select the desired profile with / and confirm with .
+ESC
+ESC
+OK
+OK
+6. Setting the instrument
+13de fr es it pt sv nl ?? ??
+6.1.2 Units
+Predefined systems and individual setting options:
+Parameter ISO system US system Individual setting options
+Temperature °C °F °C, °F
+➣ Setting units:
+✓ The configuration menu is open, config. is displayed.
+1 Units ➝ .
+2 Press / ISO/US (to set the system) or a parameter (to set
+individually) and confirm with .
+3 Set the system of units or the desired unit with / and confirm
+with .
+6.1.3 Device
+Instrument data
+➣ Displaying instrument data:
+✓ The configuration menu is open, config. is displayed.
+1 Device ➝ ➝ Inst.data ➝ .
+- The firmware version and the serial number of the instrument are
+displayed.
+Date/ Time
+➣ Setting the date/time:
+✓ The configuration menu is open, config. is displayed.
+1 Device ➝ ➝ date/time ➝ .
+2 Use / to set the value for year and confirm with .
+3 Set the other values as described in step 2.
+OK
+OK
+OK
+OK OK
+OK OK
+OK
+6. Setting the instrument
+14
+Battery type
+To ensure that the battery capacity is displayed correctly, the battery type used
+must be set.
+➣ Setting the battery type:
+✓ The configuration menu is open, config. is displayed.
+1 Device ➝ ➝ Bat-type ➝ .
+2 Press / Battery or ReBa and confirm with .
+Auto OFF
+If Auto OFF is switched on, the instrument switches itself off automatically after
+10min if no button is pressed. Exception: Cyclical printing (instruments without
+a memory) or a measuring program (instruments with a memory) is active.
+➣ Switching Auto OFF on/off:
+✓ The configuration menu is open, config. is displayed.
+1 Device ➝ ➝ Auto OFF ➝ .
+2 Press / to select On or Off and confirm with .
+Reset
+When a reset is carried out, the instrument is reset to the default settings, all
+settings/ data are deleted. Exception: Language, Date/ Time.
+➣ Resetting:
+✓ The configuration menu is open, config. is displayed.
+1 Device ➝ ➝ reset ➝ .
+2 Reset with or cancel the reset with .
+Setting min. / max. printing function
+If pr MinMaxAuto is activated, minimum and maximum values are also printed
+with the measurement readings.
+➣ Switching off pr MinMax:
+✓ The configuration menu is open, Config. is displayed.
+1 Device ➝ ➝ pr MinMax ➝ .
+2 Choose On or Off with / and confirm with . OK
+OK OK
+OK
+OK OK
+OK
+OK OK
+OK ESC
+OK OK
+6. Setting the instrument
+15de fr es it pt sv nl ?? ??
+6.1.4 Probe
+RadioC
+Radio probes may only be used in countries in which they have been Type
+Approved (see application infor mation of the radio probe).
+A radio module (accessory part) is required for the use of radio probes. The
+instrument can establish a connection with a maximum of three radio probes.
+Each radio probe has a probe ID (RF ID). This consists of the last 3 digits of the
+serial no. and the position of the slide switch (H or L) in the radio probe.
+➣ Setting up a radio probe:
+✓ A radio module (accessory part) is inserted in the instrument.
+➫ See chapter COMMISSIONING, p. 9.
+✓ The configuration menu is open, config. is displayed.
+✓ The radio probe is switched on and the transfer rate is set to 2 readings
+per second (see the advice on using the radio probe).
+1 Probe ➝ ➝ RadioC ➝ .
+2 Press / to select the desired channel no. for the radio probe (P.1,
+P.2 or P.3) and confirm with .
+- The instrument searches for switched-on radio probes in the receiving
+range.
+- The probe IDs of the radio probes found are displayed.
+If no radio probes were found, this may be because of the following:
+· The radio probe is not switched on or the battery of the radio probe is
+spent.
+· The radio probe is outside the range of the measuring instrument.
+· Sources of interference are influencing the radio transmission (e.g.
+reinforced concrete, metal objects, walls or other barriers between
+transmitter and receiver, other transmitters of the same frequency,
+strong electromagnetic fields).
+If necessary, rectify the possible causes of the fault in radio
+transmission.
+Alternatively, the probe ID can also be entered manually.
+MAN ➝ Press / to enter the probe ID.
+OK
+OK OK
+6. Setting the instrument
+16
+3 Press / to select the probe that is to be assigned to the chosen
+channel no.
+4 Assign the radio probe to the chosen channel no. with or exit the
+function with , without changing the probe configuration..
+Te-Type
+The probe characteristic curves stored in the instrument can be set for the
+probe type used.
+➣ Setting probe type:
+✓ The configuration menu is open, Config. is displayed.
+1 Probe ➝ ➝ Te-Type ➝ .
+2 Select the desired probe type with / and confirm with .
+Adjustment (735-2 only)
+The function is only available if probe adjustment data are stored in the
+instrument. The PC adjustment software testo 735-2 is required to store probe
+adjustment data in the instrument. See documentation on this software.
+Probe adjustment data stored in the instrument can be activated/deactivated.
+Information on the adjustment data can be displayed.
+➣ Activating/deactivating adjustment data:
+✓ The configuration menu is open, config. is displayed.
+1 Probe ➝ ➝ Adjustm. ➝ .
+2 Select On or Off with / and confim with .
+3 If On is selected: With / , select the probe socket to which the
+adjusted probe is connected, and confirm with .
+- The activated adjustment data are displayed for your information.
+6.1.5 Language
+➣ Setting the language:
+✓ The configuration menu is open, config. is displayed.
+1 Language ➝ .
+2 Select the desired language with / and confirm with .
+OK
+OK
+OK OK
+ESC
+OK
+OK
+OK OK
+OK
+OK
+6. Setting the instrument
+17de fr es it pt sv nl ?? ??
+6.2 Main menu
+Settings by which the measuring instrument can be adapted to the particular
+measuring task are performed in the main menu.
+The instrument has predefined measurement profiles that are tailored to
+specific areas of application.
+➫ See the chapter PROFILE, p. 12.
+The profile setting influences the number of available functions and the
+structure of the main menu.
+The method described in this chapter for calling up the functions in the main
+menu relates to the Standard profile setting. If a different profile is set, the
+method for calling up individual functions may change or the function may
+not be available in that particular profile. Some functions are only available
+when a probe is connected or a wireless probe is switched on and
+registered.

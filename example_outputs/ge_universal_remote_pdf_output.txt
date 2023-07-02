@@ -1,0 +1,1059 @@
+-----GENERATING TEST CASES----
+
+-----TEST CASE 1-----
+1. Press and hold the input button on the remote until the TV turns off.
+Expected Result: The TV should turn off.
+Steps to Perform the Test:
+
+1. Turn on the TV.
+2. Press the input button on the remote.
+3. The TV should turn back on.
+4. Press the input button again.
+5. The TV should turn off.
+6. Press the input button a third time.
+7. The TV should stay on.
+8. Press the input button a fourth time.
+9. The TV should turn off.
+10. Press the input button a fifth time.
+11. The TV should stay on.
+12. Press the input button a sixth time.
+13. The TV should turn off.
+14. Press the input button a seventh time.
+15. The TV should stay on.
+16. Press the input button an eighth time.
+17. The TV should turn off.
+18. Press the input button a ninth time.
+19. The TV should stay on.
+20. Press the input button a tenth time.
+21. The TV should turn off.
+22. Press the input button an eleventh time.
+23. The TV should stay on.
+24. Press the input button an tw
+
+-----TEST CASE 2-----
+1. Press and hold the input button on the remote until the TV turns off.
+Expected Result: The TV should turn off.
+Steps to Perform the Test:
+
+1. Turn on the TV.
+2. Press the input button on the remote.
+3. The TV should turn back on.
+4. Release the input button on the remote.
+5. The TV should turn off.
+6. Press the input button on the remote.
+7. The TV should turn back on.
+8. Release the input button on the remote.
+9. The TV should turn off.
+10. Press the input button on the remote.
+11. The TV should turn back on.
+12. Release the input button on the remote.
+13. The TV should turn off.
+14. Press the input button on the remote.
+15. The TV should turn back on.
+16. Release the input button on the remote.
+17. The TV should turn off.
+18. Press the input button on the remote.
+19. The TV should turn back on.
+20. Release the input button on the remote.
+21. The TV should turn off.
+22. Press the input button on the remote.
+23. The TV should turn back on.
+24.
+
+-----TEST CASE 3-----
+1. Press and hold the input button on the remote until the TV turns off.
+Expected Result: The TV should turn off.
+Steps to Perform the Test:
+
+1. Turn on the TV.
+2. Press the input button on the remote.
+3. The TV should turn back on.
+4. Release the input button on the remote.
+5. The TV should turn off.
+6. Press the input button on the remote.
+7. The TV should turn back on.
+8. Release the input button on the remote.
+9. The TV should turn off.
+10. Press the input button on the remote.
+11. The TV should turn back on.
+12. Release the input button on the remote.
+13. The TV should turn off.
+14. Press the input button on the remote.
+15. The TV should turn back on.
+16. Release the input button on the remote.
+17. The TV should turn off.
+18. Press the input button on the remote.
+19. The TV should turn back on.
+20. Release the input button on the remote.
+21. The TV should turn off.
+22. Press the input button on the remote.
+23. The TV should turn back on.
+24.
+
+-----TEST CASE 4-----
+1. Power on the product
+2. Press TV button
+3. The TV should turn on and display the channel you selected
+4. If the product does not turn on, check to make sure all batteries are inserted correctly and that the power cord is plugged in
+5. If the product still does not turn on, replace all batteries with new ones and try again
+
+-----TEST CASE 5-----
+1. Power on the product
+2. Press TV button
+3. The TV should turn on and display the channel you selected
+4. If the product does not turn on, check to make sure all batteries are inserted correctly and that the power cord is plugged in
+5. If the product still does not turn on, replace all batteries with new ones and try again
+
+-----TEST CASE 6-----
+1. Power on the product
+2. Press TV button
+3. The TV should turn on and display the channel you selected
+4. If the product does not turn on, check to make sure all batteries are inserted correctly and that the power cord is plugged in
+5. If the product still does not turn on, replace all batteries with new ones and try again
+
+-----TEST CASE 7-----
+1. Press TV for Samsung TVs. The red light on the remote should turn on and remain on.
+2. Press any of the device buttons on the remote. The red light should blink once and remain on.
+3. Press SETUP button on the remote. The red light will turn off.
+
+-----TEST CASE 8-----
+1. Enter the code for your TV
+2. The TV should turn on
+3. The TV should change to the correct input
+4. The sound should be muted
+5. The numbers should work
+6. The dot (•) should work
+7. The Previous Channel should work
+8. The Channel Up/Down should work
+9. The Menu should work
+10. The Setup should work
+11. The Exit should work
+12. The Input should work
+13. The TV should change to the correct channel
+14. The Auxiliary should work
+15. The DVD should work
+16. The B button should mute the sound
+17. The C button should change the input
+18. The D button should return to the previous channel
+19. The Numbers should work
+20. The Dot (•) should work to select digital channels, e.g., 4.1
+
+-----TEST CASE 9-----
+1. Press TV for Samsung TVs to enter Direct Code Entry mode.
+Expected Result: The red light on the remote should turn on and remain on.
+2. Enter 4444 for direct channel selection for TV.
+Expected Result: The TV will turn on and change to the desired channel.
+3. Press Previous Channel to return to the previous channel.
+Expected Result: The TV will turn off.
+4. Numbers to enter numbers for direct channel selection.
+Expected Result: The TV will change channels.
+5. Dot (•) to select digital channels, e.g., 4.1.
+Expected Result: The TV will change to the desired digital channel.
+6. Exit Direct Code Entry mode.
+Expected Result: The red light on the remote should turn off.
+
+-----TEST CASE 10-----
+3. Point the remote at the device and press the
+ENTER button. The red light on the remote will turn off.
+4. Use the number buttons on the remote to enter the first 4-digit code you circled in Step 1 of this section. The red light on the remote will turn on after entering the fourth digit.
+5. Point the remote at the device and press the
+EXIT button. The red light on the remote will turn off.
+6. Repeat Steps 2 – 5 for each code you wish to search for.
+7. When you have entered all the codes that you want to search for, press and hold down the SETUP button until
+
+8. Press the POWER button on the device to test the programmed remote. If the device responds as expected, release the SETUP button. Otherwise, repeat steps 3 – 8.
+
+-----TEST CASE 11-----
+3. Point the remote at the device and press the
+ENTER button. The red light on the remote will turn off.
+4. Use the number buttons on the remote to enter the first 4-digit code you circled in the Code List in Step 1.
+The red light will turn on after entering the fourth digit.
+5. Point the remote at the device. Test the buttons on the remote to see if the device responds as you would expect.
+If the buttons do not operate the device, return to Step 2 above and use the next code that you circled for that device.
+6. Repeat Steps 1 – 5 for each device you wish to control.
+7. When finished testing, press the EXIT button.
+8. Write down the remote codes used to program the remote.
+
+-----TEST CASE 12-----
+3. Point the remote at the device and press the
+ENTER button. The red light on the remote will turn off.
+4. Use the number buttons on the remote to enter the first 4-digit code you circled in Step 1 of this section. The red light on the remote will turn on after entering the fourth digit.
+5. Point the remote at the device and press the
+EXIT button. The red light on the remote will turn off.
+6. Repeat Steps 2 – 5 for each code you wish to search for.
+7. When you have entered all the codes that you want to search for, press and hold down the SETUP button until
+
+8. Press the POWER button on the device to test the programmed remote. If the device responds as expected, release the SETUP button. Otherwise, repeat steps 3 – 8.
+
+-----TEST CASE 13-----
+1. Turn on the device by pressing the power button.
+2. Point the remote at the device and press the SETUP button. The red light should turn off.
+3. Press and release the device button on the remote for the type of device you wish to control, (for example TV, cbl, dvd, aux). The red light should blink once and remain on.
+4. With the remote pointed at the device, press and release the POWER button on the remote. The remote will send 10 different codes to the device. The red light should blink once for each code and remain on after sending the 10 codes.
+5. Manually turn the device back on.
+6. With the remote pointed at the device, press and release the VOL + button. The remote will re-send the first code of the 10 codes from Step 4. The red light should blink once and remain on.
+7. Enter the code for the device that you tested in Step 5. The red light should blink once and remain on.
+8. Press and release the device button on the remote for the type of device you wish to control, (for example TV, cbl, dvd, aux). The red light should blink once and remain on.
+9. With the remote pointed at the device, press and release the POWER button on the remote. The remote will send 10 different codes to the device. The red light should blink once for
+
+-----TEST CASE 14-----
+1. Turn on the TV
+2. Press and release the device button on the remote
+3. Enter code 1 (B)
+4. The red light will blink once and remain on
+5. Press and release the device button on the remote
+6. Enter code 2 (C)
+7. The red light will blink once and remain on
+8. Press and release the device button on the remote
+9. Enter code 3 (D)
+10. The red light will blink once and remain on
+
+-----TEST CASE 15-----
+1. Turn on the TV
+Expected Result: The red light on the remote control turns on.
+Steps to Perform the Test:
+1. Point the remote at the TV and press the SETUP button.
+2. The red light will blink once and remain on.
+3. Press and release the device button on the remote for the type of device you wish to control, (for example TV, cbl, dvd, aux).
+4. With the remote pointed at the device, press and release the POWER button on the remote. The remote will send 10 different codes to the device. The red light will blink once for each code and remain on after sending the 10 codes.
+5. Manually turn the device back on.
+6. With the remote pointed at the device, press and release the VOL + button. The remote will re-send the first code of the 10 codes from Step 4. The red light will blink once and remain on.
+7. Enter the code that was stored in the remote in Step 3. The red light will blink once and remain on.
+
+-----TEST CASE 16-----
+1. Press and release the VOL + button on the TV to turn it on.
+Expected Result: The red indicator light should flash twice and the TV should turn on.
+
+2. Press and release the VOL – button on the TV to turn it off.
+Expected Result: The red indicator light should flash twice and the TV should turn off.
+
+3. Press and release the TV/VCR button on the remote to change the input.
+Expected Result: The red indicator light should flash twice and the TV/VCR should change inputs.
+
+4. Press and release the TV/DVD button on the remote to change the input.
+Expected Result: The red indicator light should flash twice and the TV/DVD should change inputs.
+
+5. Press and release the DVD/VCR button on the remote to change the input.
+Expected Result: The red indicator light should flash twice and the DVD/VCR should change inputs.
+
+6. Press and release the TV/DVD button on the remote to change the output.
+Expected Result: The red indicator light should flash twice and the TV/DVD should change outputs.
+
+7. Press and release the TV/VCR button on the remote to change the output.
+Expected Result: The red indicator light should flash twice and the TV/VCR should change outputs.
+
+8. Press and
+
+-----TEST CASE 17-----
+1. Press the VOL + button to turn on the TV.
+Expected Result: The TV turns on.
+2. Press the VOL – button to turn off the TV.
+Expected Result: The TV turns off.
+3. Press the TV/VCR button to change the input.
+Expected Result: The TV changes to VCR mode.
+4. Press the TV/DVD button to change the input.
+Expected Result: The TV changes to DVD mode.
+5. Press the B-ray button to change the input.
+Expected Result: The TV changes to B-ray mode.
+6. Press the CBL button to change the input.
+Expected Result: The TV changes to cable mode.
+7. Press the AUX button to change the input.
+Expected Result: The TV changes to auxiliary mode.
+8. Press the DVR button to change the input.
+Expected Result: The TV changes to DVR mode.
+9. Press the LIST button to change the input.
+Expected Result: The TV changes to list mode.
+10. Press the EXIT button to exit the menu.
+Expected Result: The TV returns to normal viewing.
+
+-----TEST CASE 18-----
+1. Press the VOL + button to turn on the TV.
+Expected Result: The TV turns on.
+2. Press the VOL – button to turn off the TV.
+Expected Result: The TV turns off.
+3. Press the TV/VCR button to change the input.
+Expected Result: The TV changes to VCR mode.
+4. Press the TV/DVD button to change the input.
+Expected Result: The TV changes to DVD mode.
+5. Press the B-ray button to change the input.
+Expected Result: The TV changes to B-ray mode.
+6. Press the CBL button to change the input.
+Expected Result: The TV changes to cable mode.
+7. Press the AUX button to change the input.
+Expected Result: The TV changes to auxiliary mode.
+8. Press the DVR button to change the input.
+Expected Result: The TV changes to DVR mode.
+9. Press the LIST button to change the input.
+Expected Result: The TV changes to list mode.
+10. Press the EXIT button to exit the menu.
+Expected Result: The TV returns to the main screen.
+
+-----TEST CASE 19-----
+1. Enter the product
+2. Press and hold down the SETUP button
+on the remote until the red light on the
+remote control turns on. Release the SETUP button. The red light will remain on.
+3. Press and release the device button
+(TV, aux, etc.) on the remote for the device you wish to control the volume.
+4. Press and release the MUTE button.
+5. Press and release the VOL+ button.
+The red light will blink twice and  turn off.
+6. Press and release the device button
+(TV, aux, etc.) programmed to control the Master Volume Feature.
+7. Press and release the MUTE button.
+8. Press and release the VOL- button.
+The red light wil
+
+Expected Result: The volume on the device controlled by the Master Volume Feature should be at its maximum.
+
+-----TEST CASE 20-----
+1. Enter the product
+2. Press and hold down the SETUP button
+on the remote until the red light on the
+remote control turns on. Release the SETUP button. The red light will remain on.
+3. Press and release the device button
+(TV, aux, etc.) for the device you wish to control the volume.
+4. Press and release the MUTE button.
+5. Press and release the VOL+ button.
+The red light will blink twice and  turn off.
+6. Press and release the device button
+(TV, aux, etc.) for the TV.
+7. Press and release the MUTE button.
+8. Press and release the VOL- button.
+The red light wil
+9. Change the input source to HDMI 1.
+10. Change the input source to HDMI 2.
+11. Change the input source to Component.
+12. Change the input source to Composite.
+13. Change the input source to RF (antenna).
+14. Change the input source to USB.
+15. Change the input source to PC.
+16. Change the input source to Game console.
+17. Change the input source to Satellite.
+18. Change the input source to Cable.
+19. Change the input source to Airplay.
+20. Change the input source to Bluetooth.
+21. Change the input source to
+
+-----TEST CASE 21-----
+1. Enter the product
+2. Press and hold down the SETUP button
+on the remote until the red light on the
+remote control turns on. Release the SETUP button. The red light will remain on.
+3. Press and release the device button
+(TV, aux, etc.) for the device you wish to control the volume.
+4. Press and release the MUTE button.
+5. Press and release the VOL+ button.
+The red light will blink twice and  turn off.
+6. Press and release the device button
+(TV, aux, etc.) for the TV.
+7. Press and release the MUTE button.
+8. Press and release the VOL- button.
+The red light wil
+9. Change the input source to HDMI 1.
+10. Change the input source to HDMI 2.
+11. Change the input source to Component 1.
+12. Change the input source to Component 2.
+13. Change the input source to Composite.
+14. Change the input source to RF (antenna).
+15. Change the input source to USB.
+16. Change the input source to PC.
+17. Change the input source to Game Console.
+18. Change the input source to Satellite.
+19. Change the input source to Cable.
+20. Change the input source to AirPlay.
+21. Change the input
+
+-----TEST CASE 22-----
+1. Press and hold down the SETUP
+button on the remote until the red light on the remote control turns on. Release the SETUP button. The red light will remain on.
+2. Press and release the desired device button (TV, cble, dvd, aux)  you would
+like the code for.
+3. Press and release the ENTER button.
+4. Press and release the #1 button. Count the number of times the remote light flashes. This is the number corresponding to the first digit of the code. Repeat the process by pressing the #2, #3 and #4 buttons for the remaining digits.
+5. Press and release the ENTER button to exit this mode.
+
+Expected Result: The test case should result in the correct device being selected.
+
+-----TEST CASE 23-----
+1. Press and hold down the SETUP
+button on the remote until the red light on the remote control turns on. Release the SETUP button. The red light will remain on.
+2. Press and release the desired device button (TV, cble, dvd, aux)  you would
+like the code for.
+3. Press and release the ENTER button.
+4. Press and release the #1 button. Count the number of times the remote light flashes. This is the number corresponding to the first digit of the code. Repeat the process by pressing the #2, #3 and #4 buttons for the remaining digits.
+5. Press and release the ENTER button to exit this mode.
+
+Expected Result: The test case should generate a valid code that can be entered into the product.
+
+-----TEST CASE 24-----
+1. Press and hold down the SETUP
+button on the remote until the red light on the remote control turns on. Release the SETUP button. The red light will remain on.
+2. Press and release the desired device button (TV, cble, dvd, aux)  you would
+like the code for.
+3. Press and release the ENTER button.
+4. Press and release the #1 button. Count the number of times the remote light flashes. This is the number corresponding to the first digit of the code. Repeat the process by pressing the #2, #3 and #4 buttons for the remaining digits.
+5. Press and release the ENTER button to exit this mode.
+
+Expected Result: The test case should generate a valid code.
+
+-----TEST CASE 25-----
+1. Press and release the MUTE button.
+Expected Result: The red indicator light will flash twice.
+
+2. Press and release the number #0 button.
+Expected Result: The red indicator light will flash twice.
+
+3. Press and release the number #1 button.
+Expected Result: The red indicator light will flash twice.
+
+4. Press and release the number #2 button.
+Expected Result: The red indicator light will flash twice.
+
+5. Press and release the number #3 button.
+Expected Result: The red indicator light will flash twice.
+
+6. Press and release the number #4 button.
+Expected Result: The red indicator light will flash twice.
+
+7. Press and release the number #5 button.
+Expected Result: The red indicator light will flash twice.
+
+8. Press and release the number #6 button.
+Expected Result: The red indicator light will flash twice.
+
+9. Press and release the number #7 button.
+Expected Result: The red indicator light will flash twice.
+
+10. Press and release the number #8 button.
+Expected Result: The red indicator light will flash twice.
+
+11. Press and release the number #9 button.
+Expected Result: The red indicator light will flash twice.
+
+12.
+
+-----TEST CASE 26-----
+1. Press and release the MUTE button.
+Expected Result: The red indicator light will flash twice.
+
+2. Press and release the number #0 button.
+Expected Result: The red indicator light will flash twice.
+
+3. Press and release the number #1 button.
+Expected Result: The red indicator light will flash twice.
+
+4. Press and release the number #2 button.
+Expected Result: The red indicator light will flash twice.
+
+5. Press and release the number #3 button.
+Expected Result: The red indicator light will flash twice.
+
+6. Press and release the number #4 button.
+Expected Result: The red indicator light will flash twice.
+
+7. Press and release the number #5 button.
+Expected Result: The red indicator light will flash twice.
+
+8. Press and release the number #6 button.
+Expected Result: The red indicator light will flash twice.
+
+9. Press and release the number #7 button.
+Expected Result: The red indicator light will flash twice.
+
+10. Press and release the number #8 button.
+Expected Result: The red indicator light will flash twice.
+
+11. Press and release the number #9 button.
+Expected Result: The red indicator light will flash twice.
+
+12.
+
+-----TEST CASE 27-----
+1. Press and release the MUTE button.
+Expected Result: The red indicator light will flash twice.
+
+2. Press and release the number #0 button.
+Expected Result: The red indicator light will flash twice.
+
+3. Press and release the B button.
+Expected Result: The blue indicator light will turn off.
+
+4. Press and release the C button.
+Expected Result: The blue indicator light will turn on.
+
+5. Press and release the D button.
+Expected Result: The green indicator light will turn off.
+
+6. Press and release the A button.
+Expected Result: The green indicator light will turn on.
+
+7. Press and release the TV button.
+Expected Result: The TV screen will turn off.
+
+8. Press and release the CBL button.
+Expected Result: The cable box screen will turn off.
+
+9. Press and release the AUX button.
+Expected Result: The auxiliary input screen will turn off.
+
+10. Press and release the DVD button.
+Expected Result: The DVD player screen will turn off.
+
+11. Press and release the LIST button.
+Expected Result: The list of codes will appear.
+
+12. Press and release the EXIT button.
+Expected Result: The remote will return
+
+-----TEST CASE 28-----
+1. Expected result: The product should work as expected.
+2. To perform the test: Turn on the product and make sure it is working properly.
+3. To perform the test again: If the product does not work as expected, turn off the product and then turn it back on.
+4. To perform the test a third time: If the product still does not work as expected, contact Jasco customer service.
+
+-----TEST CASE 29-----
+1. Expected result: The device should work properly.
+2. To perform the test: Turn on the device and make sure it is working properly.
+3. To perform the test again: If the device does not work properly, try to reorient or relocate the device.
+
+-----TEST CASE 30-----
+1. Expected result: The device should work properly.
+2. To perform the test: Turn on the device and make sure it is working properly.
+3. To perform the test again: If the device does not work properly, try to reorient or relocate the device.
+
+-----TEST CASE 31-----
+1. Press the button labeled "TV" to turn on the TV.
+Expected Result: The TV turns on.
+
+2. Press the button labeled "CBL" to change the channel.
+Expected Result: The TV changes the channel.
+
+3. Press the button labeled "A" to turn up the volume.
+Expected Result: The TV increases the volume.
+
+4. Press the button labeled "D" to turn down the volume.
+Expected Result: The TV decreases the volume.
+
+5. Press the button labeled "AUX" to change the audio input.
+Expected Result: The TV changes the audio input.
+
+6. Press the button labeled "DVD" to change the DVD player.
+Expected Result: The DVD player changes.
+
+7. Press the button labeled "SETUP" to enter the setup menu.
+Expected Result: The TV enters the setup menu.
+
+8. Press the button labeled "INPUT" to change the input.
+Expected Result: The TV changes the input.
+
+9. Press the button labeled "MENU" to enter the menu.
+Expected Result: The TV enters the menu.
+
+10. Press the button labeled "TV" to turn off the TV.
+Expected Result: The TV turns off.
+
+-----TEST CASE 32-----
+1. Enter the TV’s menu and select input.
+Expected Result: The TV should turn on.
+
+2. Press the Aux button.
+Expected Result: The TV should change to the auxiliary input.
+
+3. Change the input to the DVD player.
+Expected Result: The TV should change to the DVD player input.
+
+4. Change the input to the cable box.
+Expected Result: The TV should change to the cable box input.
+
+5. Change the input to the satellite receiver.
+Expected Result: The TV should change to the satellite receiver input.
+
+6. Change the input to the Blu-ray player.
+Expected Result: The TV should change to the Blu-ray player input.
+
+7. Change the input to the VCR.
+Expected Result: The TV should change to the VCR input.
+
+8. Change the input to the gaming system.
+Expected Result: The TV should change to the gaming system input.
+
+9. Change the input to the PC.
+Expected Result: The TV should change to the PC input.
+
+10. Change the input to the other TV.
+Expected Result: The other TV should turn on.
+
+-----TEST CASE 33-----
+1. Test case 1: The TV is turned on and the control remote is used to change the input.
+Expected result: The TV should change to the correct input.
+
+2. Test case 2: The TV is turned on and the control remote is used to change the volume.
+Expected result: The TV should change the volume to the desired level.
+
+3. Test case 3: The TV is turned on and the control remote is used to change the channel.
+Expected result: The TV should change to the correct channel.
+
+-----TEST CASE 34-----
+1. Press the power button to turn on the product.
+2. Connect the product to an appropriate TV or video source.
+3. Press one of the input buttons to select the input you want to test.
+4. Press the TV, cble, dvd, aux button to select the device you want to control.
+5. Use the remote control to change the channel or volume.
+6. When you are finished testing, press the power button to turn off the product.
+
+-----TEST CASE 35-----
+1. Press the TV button to turn on the TV.
+2. Press the CBL button to change the channel.
+3. Press the A button to adjust the volume.
+4. Press the D button to turn off the TV.
+5. Press the AUX button to play a DVD.
+6. Press the input button to select an input.
+7. Press the MENU button to enter the menu.
+8. Press the 2, 1, 3, 5, 16, 1511, 17, 18, 19, 204, 7, 10, 128, 136, enter to exit the menu.
+
+-----TEST CASE 36-----
+1. Press the TV button to turn on the TV.
+2. Press the CBL button to change the channel.
+3. Press the DVD button to play a DVD.
+4. Press the AUX button to listen to music from a CD player.
+5. Press the SETUP button to change the language.
+6. Press the MENU button to enter the menu.
+7. Press the 2, 1, 3, 5, 16, 1511, 17, 18, and 19 buttons in order.
+8. When the desired button is pressed, the TV turns off and the number that was displayed when the button was pressed appears in the bottom right-hand corner of the screen.
+9. To stop the test, press the STOP button.
+
+-----TEST CASE 37-----
+1. Press the input button on the remote control to turn on the TV.
+2. Press the input button on the TV to change the input.
+3. Press the input button on the remote control to change the channel.
+4. Press the input button on the TV to change the volume.
+5. Press the input button on the remote control to change the channel to 3.0.
+6. Press the input button on the TV to change the volume to 50%.
+7. Press the input button on the remote control to change the channel to 4.0.
+8. Press the input button on the TV to change the volume to 100%.
+9. Press the input button on the remote control to change the channel to 5.0.
+10. Press the input button on the TV to change the volume to 0%.
+11. Press the input button on the remote control to change the channel to 6.0.
+12. Press the input button on the TV to change the volume to 100%.
+13. Press the input button on the remote control to change the channel to 7.0.
+14. Press the input button on the TV to change the volume to 0%.
+15. Press the input button on the remote control to change the channel to 8.0.
+16. Press the input button on the TV to change the volume to 100
+
+-----TEST CASE 38-----
+1. Press the input button on the remote control to turn on the TV
+2. Press the input button on the TV to change the input
+3. Press the input button on the remote control to change the channel
+4. Press the input button on the TV to change the volume
+5. Press the input button on the remote control to change the channel
+6. Press the input button on the TV to change the volume
+7. Press the input button on the remote control to change the channel
+8. Press the input button on the TV to change the volume
+9. Press the input button on the remote control to change the channel
+10. Press the input button on the TV to change the volume
+11. Press the input button on the remote control to change the channel
+12. Press the input button on the TV to change the volume
+13. Press the input button on the remote control to change the channel
+14. Press the input button on the TV to change the volume
+15. Press the input button on the remote control to change the channel
+16. Press the input button on the TV to change the volume
+17. Press the input button on the remote control to change the channel
+18. Press the input button on the TV to change the volume
+19. Press the input button on the remote control to change the channel
+20. Press the input button on the TV to change the volume
+21. Press the input button on
+
+-----TEST CASE 39-----
+1. Press the input button on the remote control to turn on the TV.
+2. Press the input button on the TV to change the input.
+3. Press the input button on the remote control to change the channel.
+4. Press the input button on the TV to change the volume.
+5. Press the input button on the remote control to change the channel to 3.0.
+6. Press the input button on the TV to change the volume to 50%.
+7. Press the input button on the remote control to change the channel to 4.0.
+8. Press the input button on the TV to change the volume to 100%.
+9. Press the input button on the remote control to change the channel to 5.0.
+10. Press the input button on the TV to change the volume to 0%.
+11. Press the input button on the remote control to change the channel to 6.0.
+12. Press the input button on the TV to change the volume to 100%.
+13. Press the input button on the remote control to change the channel to 7.0.
+14. Press the input button on the TV to change the volume to 0%.
+15. Press the input button on the remote control to change the channel to 8.0.
+16. Press the input button on the TV to change the volume to 100
+
+-----TEST CASE 40-----
+1. Enter the 4-digit code that is included with the remote control
+2. Press and hold the SETUP button on the remote control until the red light flashes
+3. Release the SETUP button
+4. The red light will stay on
+
+-----TEST CASE 41-----
+1. Enter the 4-digit code that is included with the remote control
+2. Press and hold the SETUP button on the remote control until the red light turns on
+3. Release the SETUP button
+4. The red light will stay on
+
+-----TEST CASE 42-----
+1. Enter the 4-digit code that is included with the remote control
+2. Press and hold the SETUP button on the remote control until the red light flashes
+3. Release the SETUP button
+4. The red light will stay on
+
+-----TEST CASE 43-----
+1. Turn on the product.
+2. Press one of the buttons on the remote control to see if the device responds as it should. If the button does not work, go to Step 2 and use the code enclosed in a circle for that device.
+3. Repeat this process for each device you want to control.
+4. Write down the codes that control the device for future reference.
+
+-----TEST CASE 44-----
+1. Press the button on the remote control to turn on the TV.
+2. Point the remote control at the TV and press the buttons to see if they work. If they don't, go to Step 2 and use the following code that enclosed in a circle for the TV.
+3. Repeat this process for each button on the remote control that you want to test.
+4. Write down the codes that will work for future reference.
+
+-----TEST CASE 45-----
+1. Turn on the product.
+2. Point the remote control at the device. Try the buttons to see if the device responds as it should. If the buttons don't work, go to Step 2 and use the following code that enclosed in a circle for the device.
+3. Repeat this process for each device you want to control.
+4. Write down the codes that serve to program the device for future reference.
+
+-----TEST CASE 46-----
+1. Turn on the device you want to control.
+2. Press and hold the SETUP button on the remote until the red light on the remote turns on. Release the SETUP button. The red light will stay on.
+3. Point the remote at the device and press and release the POWER button. The red light will flash 10 times and stay on.
+4. Point the remote at the device and press and release the VOL + button. The red light will flash once and stay on.
+5. Turn off the device by pressing and holding the POWER button for a few seconds.
+6. Point the remote at the device and press and release the VOL + button. The red light will flash once and turn off.
+7. Repeat steps 2-5, but this time use the B, C, D buttons instead of the POWER and VOL + buttons.
+8. Repeat steps 3-5, but this time use the A, B, C, D buttons instead of the POWER and VOL + buttons.
+9. Repeat steps 2-5, but this time use the E, F, G buttons instead of the POWER and VOL + buttons.
+10. Repeat steps 2-5, but this time use the H, I, J buttons instead of the POWER and VOL + buttons.
+
+-----TEST CASE 47-----
+1. Turn on the device you want to control.
+2. Press and hold the SETUP button on the remote until the red light on the remote turns on. Release the SETUP button. The red light will stay on.
+3. Point the remote at the device and press and release the POWER button. The red light will flash 10 times and stay on.
+4. Point the remote at the device and press and release the VOL + button. The red light will flash once and stay on.
+5. Turn off the device by pressing and holding the POWER button for 3 seconds.
+6. Point the remote at the device and press and release the VOL + button again. The red light will flash twice and turn off.
+
+-----TEST CASE 48-----
+1. Turn on the device you want to control.
+2. Press and hold the SETUP button on the remote until the red light on the remote turns on. Release the SETUP button. The red light will stay on.
+3. Point the remote at the device and press and release the POWER button. The red light will flash 10 times and stay on.
+4. Point the remote at the device and press and release the VOL + button. The red light will flash once and stay on.
+5. Turn off the device by pressing and holding the POWER button for 3 seconds.
+6. Point the remote at the device and press and release the VOL + button again. The red light will flash twice and turn off.
+
+-----TEST CASE 49-----
+1. Press the input button on the TV and see if the DVD player turns on.
+Expected Result: The TV should turn on.
+Steps to Perform the Test:
+1. Turn on the TV.
+2. Press the input button on the DVD player.
+3. See if the TV turns on.
+
+-----TEST CASE 50-----
+1. Press the TV button on the remote control to turn on the TV.
+Expected Result: The TV turns on.
+
+2. Press the DVD button on the remote control to change the input to DVD.
+Expected Result: The TV changes to the DVD input.
+
+3. Press the TV button on the remote control again to turn off the TV.
+Expected Result: The TV turns off.
+
+4. Press the TV button on the remote control a third time to change the input to TV.
+Expected Result: The TV does not change to the TV input.
+
+5. Press the TV button on the remote control a fourth time to change the input to VCR.
+Expected Result: The TV changes to the VCR input.
+
+6. Press the TV button on the remote control a fifth time to change the input to AUX.
+Expected Result: The TV does not change to the AUX input.
+
+7. Press the TV button on the remote control a sixth time to change the input to CBL.
+Expected Result: The TV changes to the CBL input.
+
+8. Press the TV button on the remote control a seventh time to change the input to TV.
+Expected Result: The TV turns on.
+
+9. Press the TV button on the remote control an eighth time to change the input to DVD
+
+-----TEST CASE 51-----
+1. Press the TV button to turn on the TV.
+Expected Result: The TV turns on.
+Steps to Perform the Test:
+1. Turn on the TV by pressing the TV button.
+2. Press the DVD button to turn on the DVD player.
+Expected Result: The DVD player turns on.
+Steps to Perform the Test:
+1. Turn on the DVD player by pressing the DVD button.
+2. Press the TV button to turn off the TV.
+Expected Result: The TV turns off.
+Steps to Perform the Test:
+1. Turn off the TV by pressing the TV button.
+
+-----TEST CASE 52-----
+1. Enter the product
+2. Input a TV
+3. CBL/Aux input
+4. DVD input
+5. List items
+6. Exit the menu
+7. Setup input
+8. TV
+9. CBL/Aux input
+10. DVD input
+11. List items
+12. Exit the menu
+13. Menu
+14. Setup input
+15. TV
+16. CBL/Aux input
+17. DVD input
+18. List items
+19. Exit the menu
+20. Menu
+21. Setup input
+22. TV
+23. CBL/Aux input
+24. DVD input
+25. List items
+26. Exit the menu
+27. Menu
+28. Setup input
+29. TV
+30. CBL/Aux input
+31. DVD input
+32. List items
+33. Exit the menu
+34. Menu
+35. Setup input
+36. TV
+37. CBL/Aux input
+38. DVD input
+39. List items
+40. Exit the menu
+41. Menu
+42. Setup input
+43. TV
+44. CBL/Aux input
+45. DVD input
+46. List items
+47. Exit the menu
+48. Menu
+49. Setup input
+50. TV
+51. CBL/Aux input
+52. DVD input
+53. List items
+54. Exit the menu
+
+-----TEST CASE 53-----
+1. Enter the product
+2. Input a TV
+3. Change the volume
+4. Exit the product
+
+-----TEST CASE 54-----
+1. Enter the product
+2. Input a TV
+3. CBL/Aux input
+4. DVD input
+5. List input
+6. Exit
+7. Menu
+8. Setup input
+9. TV
+10. CBL/Aux input
+11. DVD input
+12. List input
+13. Exit
+14. Menu
+15. Setup input
+16. TV
+17. CBL/Aux input
+18. DVD input
+19. List input
+20. Exit
+21. Menu
+22. Setup input
+23. TV
+24. CBL/Aux input
+25. DVD input
+26. List input
+27. Exit
+28. Menu
+29. Setup input
+30. TV
+31. CBL/Aux input
+32. DVD input
+33. List input
+34. Exit
+35. Menu
+36. Setup input
+37. TV
+38. CBL/Aux input
+39. DVD input
+40. List input
+41. Exit
+42. Menu
+43. Setup input
+44. TV
+45. CBL/Aux input
+46. DVD input
+47. List input
+48. Exit
+49. Menu
+50. Setup input
+51. TV
+52. CBL/Aux input
+53. DVD input
+54. List input
+55. Exit
+56. Menu
+57. Setup input
+58.
+
+-----TEST CASE 55-----
+1. Presione y mantenga presionado el botón SETUP (Configuración) hasta que aparezca la pantalla de configuración.
+2. Seleccione "Generar nuevos test cases".
+3. Escriba el nombre del producto en el campo "Nombre del producto" e incluya una breve descripción de cada uno de los test cases.
+4. En el campo "Descripción", escriba lo siguiente:
+-Presione y suelte el botón Mute/Silencio.
+-Presione y suelte el botón VOL +. La luz roja parpadeará dos veces y se apagará. Característica de volumen maestro.
+5. En el campo "Requisitos", indique si es necesario tener instalado el control remoto para poder realizar el test. Si es así, indica el número de serie del control remoto.
+6. Por último, en el campo "Fecha de actualización", escriba el día, mes y año en el que se va a actualizar el test.
+
+-----TEST CASE 56-----
+1. Press and hold the SETUP button until the configuration menu appears.
+2. Select Restablecimiento de la configuración
+de fábrica.
+3. Release the SETUP button. The factory default settings will be restored.
+
+-----TEST CASE 57-----
+1. Presione y mantenga presionado el botón SETUP (Configuración) hasta que aparezca la pantalla de configuración.
+2. Seleccione "Generar casos de prueba".
+3. En la pantalla de configuración, seleccione "Ajustes de audio"
+4. Seleccione "Caso 1: El volumen del televisor está bajo en comparación con el volumen del receptor de audio."
+5. Presione y suelte el botón VOL +. La luz roja parpadeará dos veces y se apagará.
+6. Presione y suelte el botón MUTE/SILENCIO.
+7. Presione y suelte el botón VOL -. La luz verde parpadeará dos veces y se apagará.
+8. Presione y suelte el botón MUTE/SILENCIO.
+9. Presione y suelte el botón VOL +. La luz roja parpadeará dos veces y se apagará.
+10. Presione y suelte el botón MUTE/SILENCIO.
+11. Presione y suelte el botón VOL -. La luz verde parpad
+
+-----TEST CASE 58-----
+1. Press and hold the SETUP button on the remote control until the red light on the remote turns on.
+2. Release the SETUP button. The red light will stay on.
+3. Press and release the MUTE/SILENCE button.
+4. Press and release the NUMBER 0 button. The red light will flash twice.
+5. Press and release the ENTER button.
+6. Press and release the NUMBER 1 button. The red light will flash once.
+7. Count the number of times the red light flashes. This is the code for the first digit of the code. Repeat the process by pressing buttons 2, 3, and 4 for the other digits.
+8. Press and release the ENTER button to exit this mode.
+28 Solutions to Problems
+MAKE SURE TO KEEP THIS MANUAL AND THE CODE LIST FOR REFERENCE FUTURE.
+
+Scroll down and see a very helpful video for setting up the remote control
+http://www.byjasco.com/remote
+If you have any questions or would like additional information, please visit our website www.byjasco.com or call our technical support team at 1-800-654-8483, Monday through Friday from 7:00 a. m. to 8:00 p. m. CST (Central Standard Time).The remote control doesn't work with some of the functions on your device.
+• Make sure
+
+-----TEST CASE 59-----
+1. Press and hold the SETUP button on the remote control until the red light on the remote turns on.
+2. Release the SETUP button. The red light will stay on.
+3. Press and release the MUTE/SILENCE button.
+4. Press and release the NUMBER 0 button. The red light will flash twice.
+5. Press and release the ENTER button.
+6. Press and release the NUMBER 1 button. The red light will flash once.
+7. Count the number of times the red light flashes. This is the code for the first digit of the code. Repeat the process by pressing buttons 2, 3, and 4 for the other digits.
+8. Press and release the ENTER button to exit this mode.
+28 Solutions to Problems
+MAKE SURE TO KEEP THIS MANUAL AND THE CODE LIST FOR FUTURE REFERENCE.
+
+Scroll down and see a very helpful video for remote setup
+http://www.byjasco.com/remote
+If you have any questions or would like additional information, please visit our website www.byjasco.com or call our technical support team at 1-800-654-8483, Monday through Friday from 7:00 a. m. to 8:00 p. m. CST (Central Standard Time).The remote doesn't work with some of the functions on your device.
+•
+
+-----TEST CASE 60-----
+1. Press and hold the SETUP button on the remote control until the red light on the remote control turns on.
+2. Release the SETUP button. The red light will stay on.
+3. Press and release the MUTE/SILENCE button.
+4. Press and release the NUMBER 0 button. The red light will flash twice.
+5. Press and release the ENTER button.
+6. Press and release the NUMBER 1 button. The red light will flash once.
+7. Count the number of times the red light flashes. This is the code for the first digit of the code. Repeat the process by pressing buttons 2, 3, and 4 for the other digits.
+8. Press and release the ENTER button to exit this mode.
+28 Solutions to Problems
+MAKE SURE TO KEEP THIS MANUAL AND THE CODE LIST FOR FUTURE REFERENCE.
+
+Scroll down and see a very helpful video for remote setup
+http://www.byjasco.com/remote
+If you have any questions or would like additional information, please visit our website www.byjasco.com or contact our technical support team at 1-800-654-8483, Monday through Friday from 7:00 a. m. to 8:00 p. m. CST (Central Standard Time).The remote doesn't work with some of the functions on your device.
+
+-----TEST CASE 61-----
+1. Press the power button to turn on the product. The product should turn on and display the Jasco logo.
+Expected result: The product turns on and displays the Jasco logo.
+2. Press one of the buttons on the remote control. The product should respond with the corresponding function.
+Expected result: The product responds with the corresponding function.
+3. Change the channel on the TV.
+
+Expected result: The product changes the channel.
+
+-----TEST CASE 62-----
+1. Press the power button to turn on the product. The product should turn on and display the Jasco logo.
+Expected result: The product turns on and displays the Jasco logo.
+2. Press one of the buttons on the remote control. The product should respond with the corresponding function.
+Expected result: The product responds with the corresponding function.
+
+-----TEST CASE 63-----
+1. Press the power button to turn on the product. The product should turn on and display the Jasco logo.
+Expected result: The product turns on and displays the Jasco logo.
+2. Press one of the buttons on the remote control. The product should respond with the corresponding function.
+Expected result: The product responds with the corresponding function.
+3. Change the channel on the TV.
+Expected result: The product changes the channel.
+4. Change the volume on the TV.
+Expected result: The product changes the volume.
+
+-----TEST CASE 64-----
+1. Turn on the product and wait for the power light to turn green.
+2. Connect an antenna to the product.
+3. Change the channel to a channel that is not being used by another device.
+4. Change the input source to a different type of input (e.g., HDMI, AV).
+5. Change the output source to a different type of output (e.g., TV, VCR).
+6. Verify that the product is receiving the desired signal.
+
+-----TEST CASE 65-----
+1. Turn on the product and wait for the power light to turn green.
+2. Press and hold the power button until the power light turns off.
+3. Wait 10 seconds and turn on the product by pressing the power button.
+4. Wait 10 seconds and press the power button again.
+5. Wait 10 seconds and release the power button.
+6. If the power light turns on, the product is working properly. If the power light does not turn on, the product needs to be replaced.
+7. If the product needs to be replaced, follow the instructions that came with the product.
+
+-----TEST CASE 66-----
+1. Turn on the product and wait for the power light to turn green.
+2. Press and hold the power button until the device powers off.
+3. Reconnect the power cord to the outlet and turn on the product.
+4. Wait for the product to boot up and then press and hold the power button until the device powers off.
+5. Reconnect the power cord to the outlet and turn on the product.
+6. Wait for the product to boot up and then press and hold the power button until the device powers off.
+7. Reconnect the power cord to the outlet and turn on the product.
+8. Wait for the product to boot up and then press and hold the power button until the device powers off.
+9. Reconnect the power cord to the outlet and turn on the product.
+10. Wait for the product to boot up and then press and hold the power button until the device powers off.
+11. Reconnect the power cord to the outlet and turn on the product.
+12. Wait for the product to boot up and then press and hold the power button until the device powers off.
+13. Reconnect the power cord to the outlet and turn on the product.
+14. Wait for the product to boot up and then press and hold the power button until the device powers off.
+15. Reconnect the power cord to the outlet and turn on the product.
+16. Wait
+
+-----FINISHED GENERATING TEST CASES-----

@@ -1,0 +1,296 @@
+-----GENERATING TEST CASES----
+
+-----TEST CASE 1-----
+1. Connect the power cord to the outlet and plug in the instrument.
+2. Turn on the instrument by pressing the power button.
+3. If you are using rechargeable batteries, make sure they are fully charged before beginning the test.
+4. Connect one end of the probe to the connector on the instrument and the other end to the target or measurement object.
+5. Press the start/stop button to begin the test. The instrument will display the current reading on the screen.
+6. To stop the test, press the stop button. The instrument will return to the main menu.
+7. To change the measuring range, use the up and down buttons to select the desired range and press the start/stop button.
+8. To save the current reading to memory, press the save button. The instrument will write the data to memory and return to the main menu.
+9. To erase the memory, press the erase button. The instrument will erase all data from memory and return to the main menu.
+10. To quit the program, press the quit button.
+
+-----TEST CASE 2-----
+1. Connect the power cord to an outlet and plug in the instrument.
+2. If you are using rechargeable batteries, insert them into the instrument.
+3. Turn on the instrument by pressing the power button.
+4. Connect the probe to the instrument.
+5. Select the measurement type and press the start/stop button.
+6. Observe the result.
+
+-----TEST CASE 3-----
+1. Connect the power cord to an outlet and plug in the instrument.
+2. If you are using rechargeable batteries, insert them into the battery compartment.
+3. Turn on the instrument by pressing the power button.
+4. Connect the probe to the instrument.
+5. Press the start/stop button to begin measuring.
+6. When the test is complete, press the stop button.
+7. Disconnect the probe from the instrument.
+8. Remove the probe from the connector.
+9. Replace the connector.
+10. Turn off the instrument by pressing the power button.
+
+-----TEST CASE 4-----
+1. Switch on the instrument and wait for it to initialize.
+2. Open the configuration menu and select Profile.
+3. Select the type of probe you are using from the drop-down list.
+4. Select the country in which you will be performing the test from the drop-down list.
+5. Select the measurement range from the drop-down list.
+6. Select the time interval from the drop-down list.
+7. Select the number of repetitions from the drop-down list.
+8. Click OK.
+9. The results of the test are displayed.
+
+-----TEST CASE 5-----
+1. Switch on the instrument and wait for it to initialize.
+2. Open the configuration menu and select Profile.
+3. Select the type of probe you are using.
+4. Select the country in which you will be performing the test.
+5. Select the measurement range.
+6. Select the time interval.
+7. Select the number of repetitions.
+8. Click OK.
+
+The instrument should now be ready to start testing.
+
+-----TEST CASE 6-----
+1. Switch on the instrument and wait for it to be recognised by the measuring instrument.
+2. Insert the connector of the probe into the probe socket of the measuring instrument.
+3. Activate the radio module (accessory part) if required.
+4. Switch on the measuring instrument.
+5. Select the measurement type.
+6. Set the measuring range.
+7. Set the trigger level.
+8. Set the data output format.
+9. Set the data input format.
+10. Press .
+11. Start the test.
+12. Stop the test.
+13. Save the test results.
+14. Print the test results.
+15. Exit the configuration menu.
+
+-----TEST CASE 7-----
+1. Connect the power to the product and press the start button
+2. Enter the measurement mode
+3. Press one of the function buttons
+4. Observe the result
+5. Repeat steps 3-4 for each function button
+6. Exit the measurement mode
+7. Disconnect the power from the product
+8. Write down the results of the test cases
+9. Compare the results of the test cases with the expected result
+10. If there are any discrepancies, investigate them and correct the
+problem
+
+-----TEST CASE 8-----
+1. Connect the power to the product and press the start button
+2. Enter the measurement mode
+3. Press one of the function buttons
+4. Observe the result
+5. Repeat steps 3-4 for each function button
+6. Exit the measurement mode
+7. Disconnect the power from the product
+8. Write down the results of the test cases
+9. Compare the results of the test cases with the expected result
+10. If there are any discrepancies, investigate them and correct the
+problem
+
+-----TEST CASE 9-----
+1. Connect the power to the product and press the power button.
+2. Press one of the function buttons.
+3. The instrument should print the result.
+4. If the test case fails, repeat the steps until the test case succeeds.
+5. Compare the expected result with the actual result.
+
+1. Connect the power to the product and press the power button.
+2. Press one of the function buttons.
+3. The instrument should not print the result.
+4. If the test case fails, repeat the steps until the test case succeeds.
+5. Compare the expected result with the actual result.
+
+-----TEST CASE 10-----
+1. Switch on the product and wait for the instrument to initialize.
+Expected result: The instrument displays "Configuring..." and then displays the main menu.
+2. Select "Auto OFF" from the main menu and press .
+Expected result: The configuration menu is displayed.
+3. Press / to select "On" and confirm with .
+Expected result: The Auto OFF function is enabled.
+4. Press / to select "Reset" and confirm with .
+Expected result: The instrument is reset to the default settings.
+5. Select "MinMaxAuto" from the main menu and press .
+Expected result: The minimum and maximum printing function is enabled.
+6. Select "Off" from the main menu and press .
+Expected result: The pr MinMax function is disabled.
+
+-----TEST CASE 11-----
+1. Switch on the product
+2. Press and hold down the "Start" button
+3. While holding down the "Start" button, press the "Auto OFF" button
+4. Release both buttons simultaneously
+5. The instrument should turn off
+Expected Result: The instrument should turn off
+
+-----TEST CASE 12-----
+1. Switch on the product
+2. Press and hold down the "Auto OFF" button for 3 seconds
+3. Release the "Auto OFF" button
+4. Press the "Print" button
+5. The "Language" screen should appear
+6. Change the language to English
+7. Press the "Date/Time" button
+8. The "Config." screen should appear
+9. Change the date to 03/01/2018
+10. Press the "Exit" button
+11. The "Printer Status" screen should appear
+12. The "Min./Max." screen should appear
+13. Change the value of "Min." to 100
+14. Change the value of "Max." to 200
+15. Press the "Exit" button
+16. The "Measurement Results" screen should appear
+17. The "Auto OFF" button should be disabled
+18. Press the "Print" button
+19. The "Language" screen should appear
+20. Change the language to Spanish
+21. Press the "Date/Time" button
+22. The "Config." screen should appear
+23. Change the date to 04/01/2018
+24. Press the "Exit" button
+25. The "Printer Status" screen should appear
+26. The "Min./Max." screen should not appear
+27. Change the value of "Min." to 100
+28. Change the value
+
+-----TEST CASE 13-----
+1. Select the product to be tested
+2. Enter the serial number of the product
+3. Select the channel on which the product is to be tested
+4. Select the measuring range for the product
+5. Select the type of measurement to be performed
+6. Select the required probe
+7. Confirm the settings
+8. Start the test
+9. Check the result
+10. Repeat steps 7-10 as necessary
+
+MAN ➝ Press / to enter the probe ID.
+OK
+OK OK
+6. Setting the instrument
+18
+
+6.3 Measurement menu
+Settings that determine how the measuring instrument will measure the
+product.
+
+1. Select the type of measurement to be performed
+2. Select the required probe
+3. Confirm the settings
+4. Start the measurement
+5. Check the result
+6. Repeat steps 4-6 as necessary
+
+-----TEST CASE 14-----
+1. Select the product to be tested
+2. Enter the serial number of the product
+3. Select the channel on which the product is to be tested
+4. Select the measuring range
+5. Select the type of measurement (measurement result, time, power)
+6. Select the required test case
+7. Confirm the settings
+8. Start the test
+9. Check the results
+10. Repeat the test as necessary
+
+MAN ➝ Press / to enter the probe ID.
+OK
+OK OK
+6. Setting the instrument
+18
+
+6.3 Measurement menu
+Settings for the measuring instruments used with the product.
+
+1. Select the type of measuring instrument
+2. Select the measuring range
+3. Select the required measuring mode (time, power, frequency)
+4. Select the required measuring point
+5. Confirm the settings
+6. Start the measurement
+7. Check the results
+8. Repeat the measurement as necessary
+
+MAN ➝ Press / to enter the probe ID.
+OK
+OK OK
+6. Setting the instrument
+19
+
+6.4 Configuration menu
+Settings that affect the performance of the measuring instrument.
+
+1. Select the probe type
+2. Select the probe socket
+3. Select the radio frequency
+4. Select the required
+
+-----TEST CASE 15-----
+1. Select the product to be tested
+2. Enter the test case number
+3. Press .
+4. The results of the test are displayed.
+5. To exit the function, press or .
+
+MAN ➝ Press / to enter the probe ID.
+OK
+6. Setting the instrument
+18
+7 Press / to select the desired channel no.
+8 Assign the radio probe to the chosen channel no. with or exit the
+function with , without changing the probe configuration..
+Te-Type
+The probe characteristic curves stored in the instrument can be set for the
+probe type used.
+➣ Setting probe type:
+✓ The configuration menu is open, Config. is displayed.
+1 Probe ➝ ➝ Te-Type ➝ .
+2 Select the desired probe type with / and confirm with .
+Adjustment (735-2 only)
+The function is only available if probe adjustment data are stored in the
+instrument. The PC adjustment software testo 735-2 is required to store probe
+adjustment data in the instrument. See documentation on this software.
+Probe adjustment data stored in the instrument can be activated/deactivated.
+Information on the adjustment data can be displayed.
+➣ Activating/deactivating adjustment data:
+✓ The configuration menu is open, config. is displayed.
+1 Probe ➝
+
+-----TEST CASE 16-----
+1. Open the product documentation
+2. Select the "Profile" tab
+3. Select the "Standard" profile
+4. Click on the "Settings" button
+5. Change the "Number of Functions" setting to 2
+6. Click on the "OK" button
+7. Perform a measurement in the main menu
+8. Compare the expected result with the actual result
+
+-----TEST CASE 17-----
+1. Open the product and navigate to the main menu.
+Expected Result: The instrument should display the predefined measurement profiles tailored to specific areas of application.
+2. Select a profile from the main menu.
+Expected Result: The instrument should display the corresponding functions in the main menu.
+3. Select a function from the main menu.
+Expected Result: The instrument should display the corresponding information about the selected probe.
+
+-----TEST CASE 18-----
+1. Open the product and navigate to the main menu.
+Expected Result: The instrument should display the predefined measurement profiles tailored to specific areas of application.
+2. Select a profile by pressing .
+Expected Result: The instrument should display the corresponding measurement functions in the main menu.
+3. Select a function by pressing .
+Expected Result: The instrument should display the corresponding instruction for performing the task.
+
+-----FINISHED GENERATING TEST CASES-----

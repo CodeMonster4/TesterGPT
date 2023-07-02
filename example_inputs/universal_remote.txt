@@ -1,0 +1,97 @@
+A Universal Remote makes it easier to control your TV and other components.
+
+To get started, make sure you:
+
+Install batteries into the Universal Remote.
+Can point the Universal Remote at the TV or another device you are trying to control during programming. If this "link" is broken, you will have to restart the programming process.
+How to Program an RCA Universal Remote
+Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
+
+Direct Code Entry
+The easiest way to program a Universal Remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
+
+Turn on the device you want to control.
+
+Press and hold the appropriate DEVICE button on your Universal Remote Control (some remotes require that you press a Setup button before pressing the device button). The LEDs for the device and power buttons will light up.
+
+Although the buttons may be labeled for a specific device, you can use them for any compatible device; you must remember which one corresponds to the device you are controlling.
+
+With the device button on the remote held down, ENTER THE CODE for the brand of the device. If a brand has more than one code, start with the first one. As you enter the code, the power button on the remote will turn off.
+
+Universal Remote Direct Code Entry Example
+Remote Image Courtesy of RCA
+After entering a code, keep holding down the device button. If the control's power button lights up and stays on, you have entered the correct code.
+
+If the power button blinks several times, then the code you entered is not correct. Each time you are unsuccessful, repeat the code entry step for each code until one works.
+
+After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.
+
+If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
+
+Auto Code Search
+You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The Universal Remote will search through its database, testing several codes at a time.
+
+Here is an example of likely steps:
+
+Turn on your TV or another device you wish to control.
+
+Press and release the DEVICE button on your remote associated with the product you want to control (TV, etc.). As mentioned previously, you can use any device with any of the labeled buttons—remember to write it down.
+
+Press the Device Button again, as well as the POWER button at the same time. The power button will turn off and then come back on again.
+
+Universal Remote Auto Code Search Example
+Remote Image Courtesy of RCA
+Release both buttons.
+
+Press and release the PLAY button on the remote, then wait a few seconds and see if the device you are trying to control turns off. If so, then it has found the correct code. If your device is still on, press the play button again and go through the waiting and turn off process. Do this until your device turns off.
+
+Next, press and release the REVERSE button on your remote every two seconds until your device turns back on. When it finally does, the remote has successfully searched for the correct code.
+
+Press the STOP button to save the code.
+
+Test several functions on the remote and see if they work for your device.
+
+Brand Code Search
+Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
+
+Here are the steps:
+
+Turn on the device you wish to control (TV, VCR, DVD, DVR, satellite receiver, or cable box).
+
+Locate the Brand Code(s) from the list provided with your Universal Remote Control.
+
+Press and hold the DEVICE button you wish to program. (TV, DVD, Aux, etc.) When the LED for that button turns on and remains on, keep holding down that button.
+
+While holding the device button, press and hold the POWER button, the power button should light up.
+
+Release the power and device button. The device button should remain on (if not, repeat the steps).
+
+Using the universal remote's keypad, enter the first CODE of the brand. The LED light for that device button should then remain on.
+
+Universal Remote Brand Code Search Example
+Remote Image Courtesy RCA
+Press and release the Power button repeatedly until the device you are trying to control turns off. If the device turns off, the Universal Remote has found the correct code.
+
+Hit the STOP button on your universal remote to save the code (the LED light will turn off).
+
+Use several buttons (volume, etc.) to see if your Universal Remote can now control the device.
+
+If your device doesn't turn off and the LED light blinks four times, this means you have exhausted the codes for that brand, and you need to use another programming method.
+
+Manual Code Search
+Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
+
+These are the steps to initiate this option:
+
+Turn on your TV or another device you wish to control.
+
+Press and hold the corresponding DEVICE and POWER buttons on the remote at the same time. Wait until the power button comes on, and then release both buttons.
+
+Pointing the remote at the TV or another device, press the Power button on the remote and wait 2 seconds.
+
+If the power on your TV or device turns off, the remote has found the correct Code. Press STOP to save the code.
+
+Universal Remote Manual Code Search Example
+Remote Image Courtesy of RCA
+If your device fails to turn off, press the Power button again so that the remote tests the following code in the database. Perform this step until it finds a code.
+
